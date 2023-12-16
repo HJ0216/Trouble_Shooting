@@ -19,7 +19,7 @@ Maven Project의 Library가 제대로 설치되지 않음
 
 <br/>
 
-* Maven project에사 pom.xml에서 오류가 발생할 경우,
+* Maven project에서 pom.xml에서 오류가 발생할 경우,
     * project tag
     * dependency tag
 
