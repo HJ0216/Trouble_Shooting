@@ -1,7 +1,15 @@
 ## BeanCreationException
 
+### Environment
+- Language: Java
+- DB: H2 Database
+- IDE: IntelliJ
+
+<br/>
+
 ### Problem
 Entity에서 PK에 @Id를 설정하고, @GeneratedValue를 통해 자동으로 값을 부여하고자 할 때 발생
+
 ```bash
 org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: [PersistenceUnit: default] Unable to build Hibernate SessionFactory; nested exception is org.hibernate.MappingException: Could not instantiate id generator [entity-name=jpabook.jpashop.Member]
 
@@ -22,6 +30,7 @@ SEQUENCE없이 GenerationType.SEQUENCE가 실행되어 `Could not instantiate id
 
 ### Solution
 * @GeneratedValue에 strategy GenerationType.IDENTITY 속성 추가
+
 ```java
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
@@ -40,6 +49,7 @@ public class Member {
 }
 
 ```
+
 - strategy 유형
     - GenerationType.AUTO
         - 기본값
@@ -57,6 +67,7 @@ public class Member {
 <br/>
 
 cf. `@Id package 확인`
+
 ```java
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
