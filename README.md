@@ -5,13 +5,13 @@
 - [Java] circular_references
 - [Java] cvc-elt.1.a
 - [Java] HttpMessageNotWritableException
-- [Java] InvalidDataAccessApiUsageException
 - [Java] JdbcTypeRecommendationException
 - [Java] NoUniqueBeanDefinitionException
 
 <br/>
 
 ## Database
+- [Oracle] ORA_00934
 - [Oracle] ORA_00976
 - [Oracle] ORA_01017
 - [Oracle] ORA_01791
