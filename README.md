@@ -8,6 +8,7 @@
 - [Java] JdbcTypeRecommendationException
 - [Java] NoUniqueBeanDefinitionException
 - [Java] TransientPropertyValueException
+- [Java] UnknownPathException
 
 <br/>
 
