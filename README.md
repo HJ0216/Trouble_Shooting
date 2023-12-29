@@ -5,6 +5,7 @@
 - [Java] circular_references
 - [Java] cvc-elt.1.a
 - [Java] HttpMessageNotWritableException
+- [Java] InvalidDataAccessApiUsageException
 - [Java] JdbcTypeRecommendationException
 - [Java] NoUniqueBeanDefinitionException
 
