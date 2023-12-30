@@ -9,6 +9,7 @@
 - [Java] NoUniqueBeanDefinitionException
 - [Java] TransientPropertyValueException
 - [Java] UnknownPathException
+- [Java] UnsatisfiedDependencyException
 
 <br/>
 
