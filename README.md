@@ -28,7 +28,8 @@
 <br/>
 
 ## Git
-- Permission_Denied
+- [Git] Permission_Denied
+- [Git] index_file_corrupt
 
 <br/>
 
