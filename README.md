@@ -7,6 +7,7 @@
 - [Java] HttpMessageNotWritableException
 - [Java] JdbcTypeRecommendationException
 - [Java] NoUniqueBeanDefinitionException
+- [Java] SpelEvaluationException
 - [Java] TransientPropertyValueException
 - [Java] UnknownPathException
 - [Java] UnsatisfiedDependencyException
