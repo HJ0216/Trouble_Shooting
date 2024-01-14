@@ -17,6 +17,7 @@
 
 ## Database
 - [Oracle] ORA_00934
+- [Oracle] ORA_00935
 - [Oracle] ORA_00976
 - [Oracle] ORA_01017
 - [Oracle] ORA_01791
