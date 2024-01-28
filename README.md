@@ -21,6 +21,7 @@
 - [Oracle] ORA_00976
 - [Oracle] ORA_01017
 - [Oracle] ORA_01791
+- [Oracle] ORA_06502
 - [Oracle] ORA_12560
 - [Oracle] ORA_28000
 - [Oracle] ORA_28002
