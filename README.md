@@ -1,33 +1,38 @@
 # Trouble Shooting
 
-## Backend
-- [Java] BeanCreationException
-- [Java] circular_references
-- [Java] cvc-elt.1.a
-- [Java] HttpMessageNotWritableException
-- [Java] JdbcTypeRecommendationException
-- [Java] NoUniqueBeanDefinitionException
-- [Java] SemanticException
-- [Java] SpelEvaluationException
-- [Java] TransientPropertyValueException
-- [Java] UnknownPathException
-- [Java] UnsatisfiedDependencyException
+## Java
+- BeanCreationException
+- circular_references
+- cvc-elt.1.a
+- HttpMessageNotWritableException
+- JdbcTypeRecommendationException
+- NoUniqueBeanDefinitionException
+- SemanticException
+- SpelEvaluationException
+- TransientPropertyValueException
+- UnknownPathException
+- UnsatisfiedDependencyException
 
 <br/>
 
-## Database
-- [Oracle] ORA_00934
-- [Oracle] ORA_00935
-- [Oracle] ORA_00976
-- [Oracle] ORA_01017
-- [Oracle] ORA_01791
-- [Oracle] ORA_06502
-- [Oracle] ORA_12560
-- [Oracle] ORA_28000
-- [Oracle] ORA_28002
-- [Oracle] ORA_28009
-- [Oracle] ORA_65096
-- [Oracle] PLS_00201
+## C#
+- Win32Exception
+
+<br/>
+
+## Oracle DB
+- ORA_00934
+- ORA_00935
+- ORA_00976
+- ORA_01017
+- ORA_01791
+- ORA_06502
+- ORA_12560
+- ORA_28000
+- ORA_28002
+- ORA_28009
+- ORA_65096
+- PLS_00201
 
 <br/>
 
