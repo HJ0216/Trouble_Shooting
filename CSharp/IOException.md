@@ -35,7 +35,8 @@ System.IO.IOException
 
 ### Solution
 ![IOException_image1](./images/IOException_image1.png)
-* 각 이미지 우 클릭 -> 속성 -> 빌드 작업: 없음 -> 리소스로 수정
+1. 각 이미지 우 클릭 -> 속성 -> 빌드 작업: 없음 -> 리소스로 수정
+2. 재빌드 진행
 
 <br/>
 
