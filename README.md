@@ -17,6 +17,7 @@
 
 ## C#
 - Win32Exception
+- StackOverflowException
 
 <br/>
 
